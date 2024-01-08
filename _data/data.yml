@@ -207,22 +207,22 @@ skills:
 
     toolset:
       - name: PHP
-        level:
+        level: 90%
 
       - name: Laravel
-        level:
+        level: 80%
 
       - name: PHPUnit
-        level:
+        level: 90%
 
       - name: SQL & MySql
-        level:
+        level: 80%
 
       - name: Javascript
-        level:
+        level: 60%
 
       - name: HTML & CSS
-        level:
+        level: 60%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
