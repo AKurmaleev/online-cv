@@ -87,6 +87,10 @@ experiences:
           - Arep, the CRM for renting business, events, complex role access management system, well covering with feature tests. Support and changing access rules for different roles.
 
           - CRM for inner company needs, fixing little but nasty bugs, adding features like raw SQL based counting of vacation and working days for vacation requests.
+          
+          - Vizable. Social network for universities in England to promote education for children with basic features like chats, personal pages, walls and groups. High load oriented.
+
+          - Mecurus. Alibaba-like market specialized on selling fabrics. Complex product system, session based cart, payments and etc.
       - role: Full Stack Developer
         time: 2018 - 2020
         company: Magenius
