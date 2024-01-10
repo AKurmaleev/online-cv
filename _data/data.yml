@@ -207,7 +207,7 @@ experiences:
 #        conference: "Comm. ACM 4 (1961), 51–55"
 
 skills:
-    title: Skills &amp; Proficiency
+    title: Skills
 
     toolset:
       - name: PHP
@@ -219,7 +219,7 @@ skills:
       - name: PHPUnit
 #        level: 90%
 
-      - name: SQL & MySql
+      - name: SQL & MySQL
 #        level: 80%
 
       - name: Javascript
