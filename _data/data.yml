@@ -3,99 +3,160 @@
 #
 
 sidebar:
-    position: left  # position of the sidebar : left or right
-    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
-    education: True # set to False if you want education in main section instead of in sidebar
+  position: left  # position of the sidebar : left or right
+  about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
+  education: True # set to False if you want education in main section instead of in sidebar
 
-    # Profile information
-    name: Artem Kurmaleev
-    tagline: PHP Developer
-    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+  # Profile information
+  name: Artem Kurmaleev
+  tagline: PHP Developer
+  avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
-    # Sidebar links
-    email: art.kurmaleev@gmail.com
-#    phone: +54 911 3 7777 369
-    timezone: UTC/GMT -3 hours
-    # website: blog.webjeda.com #do not add http://
-    linkedin: artem-kurmaleev
-    #github: akurmaleev
-    telegram: Vaco7 # add your nickname without '@' sign
-    pdf: https://akurmaleev.github.io/online-cv/print
+  # Sidebar links
+  email: art.kurmaleev@gmail.com
+  #    phone: +54 911 3 7777 369
+  timezone: UTC/GMT -3 hours
+  # website: blog.webjeda.com #do not add http://
+  linkedin: artem-kurmaleev
+  #github: akurmaleev
+  telegram: Vaco7 # add your nickname without '@' sign
+  pdf: https://akurmaleev.github.io/online-cv/print
 
-    languages:
-      title: Languages
-      info:
-        - idiom: English
-          level: C1/C2
+  languages:
+    title: Languages
+    info:
+      - idiom: English
+        level: C1/C2
 
-        - idiom: Russian
-          level: Native
+      - idiom: Russian
+        level: Native
 
-        - idiom: Spanish
-          level: A1
+      - idiom: Spanish
+        level: A1
 
-    interests:
-      title: Interests
-      info:
-        - item: Reverse engineering
-          link:
+  interests:
+    title: Interests
+    info:
+      - item: Reverse engineering
+        link:
 
-        - item: Science
-          link:
+      - item: Science
+        link:
 
-        - item: Badminton
-          link:
+      - item: Badminton
+        link:
 
-        - item: Gaming
-          link:
+      - item: Gaming
+        link:
 
 career-profile:
-    title: Career Profile
-    summary: |
-      PHP developer, tech, team lead and a scientist with more than 5 years of experience in professional software design, e-commerce support for the ongoing projects. Associate, scientist by vocation. Badminton fanatic, team leader of 6 years, coach and a father.
+  title: Career Profile
+  summary: |
+    PHP developer, tech, team lead and a scientist with more than 5 years of experience in professional software design, e-commerce support for the ongoing projects. Associate, scientist by vocation. Badminton fanatic, team leader of 6 years, coach and a father.
 education:
-    title: Education
-    info:
-      - degree: Associate of Science
-        university: Southern Federal University
-        time: 2015 - 2020
-      - degree: MSc in Computer Science
-        university: Southern Federal University
-        time: 2013 - 2015
-      - degree: BSc in Computer Science
-        university: Southern Federal University
-        time: 2009 - 2013
+  title: Education
+  info:
+    - degree: Associate of Science
+      university: Southern Federal University
+      time: 2015 - 2020
+    - degree: MSc in Computer Science
+      university: Southern Federal University
+      time: 2013 - 2015
+    - degree: BSc in Computer Science
+      university: Southern Federal University
+      time: 2009 - 2013
 
 experiences:
-    title: Experiences
-    info:
-      - role: PHP Developer
-        time: 2020 - 2023
-        company: Attract Group
-        details: |
-          Projects:
-           - Arc. Service for requesting, adding and using manuals for aviation and planes. Tech and team leading project starting from retrieval project from different team, re-working project infrastructure according to the SOLID, YAGNI, DRY and KISS principles. Implementing GraphQL test system based on Laravel Lighthouse.
+  title: Experiences
+  info:
+    - role: PHP Developer
+      time: 2020 - 2023
+      company: Attract Group
+      details: |
+        Developing backend for web applications for variety of businesses and start-ups.
 
-           - Cypher. The platform for artists to distribute their content. Implemented PayPal custom integration with webhooks. Integrated Sendbird to save up on custom chat creation for client needs. Team leading and tech leading.
+        Projects:
+        - Arc, service for requesting, adding and using manuals for aviation and planes.
 
-           - Marvellous Babysitting. Service to find the nanny depending on her distance and schedule. Raw SQL querying for required days, Google Maps integration for distance calculation, Uber-like system of placing orders with secondary confirmations complexity where parents review the nannies applications, online sittings time logging with extensions and approval flow. High load optimizations.
-          
-          - SKOS. CRM for the school that specialized on kids with special needs. Custom DocuSign integration with template creation to onboard clients saving costs.
+        Role: Tech and team leading, Lead Developer.
 
-          - Zad Cakes, a shop for online selling cakes. Multiple shops, using google maps to count delivery distance and delivery price, shop availability depending on the chosen delivery/pickup day.
+        Accomplishments: Retrieval project from different team, re-working project infrastructure according to the SOLID, YAGNI, DRY and KISS principles. Implementing GraphQL test system based on Laravel Lighthouse. Heavy query optimizations and queue load distribution. Client side TDD coverage with PHPUnit.
 
-          - Arep, the CRM for renting business, events, complex role access management system, well covering with feature tests. Support and changing access rules for different roles.
+        Tech: PHP, MySQL, Laravel, GraphQL, Laravel Lighthouse, PHPUnit.
+  
+        - Cypher, platform for artists to distribute their content.
 
-          - CRM for inner company needs, fixing little but nasty bugs, adding features like raw SQL based counting of vacation and working days for vacation requests.
-          
-          - Vizable. Social network for universities in England to promote education for children with basic features like chats, personal pages, walls and groups. High load oriented.
+        Role: PHP Developer, tech and team leading the later stages of development.
 
-          - Mecurus. Alibaba-like market specialized on selling fabrics. Complex product system, session based cart, payments and etc.
-      - role: Full Stack Developer
-        time: 2018 - 2020
-        company: Magenius
-        details: |
-          Business oriented support-developer, further developing existing web applications. Improving page load times, CEO and page rating, adding new features like new extensions and themes for Magento 1,2 e-Commerce applications. Configuring Magento extensions and fixings incompatibilites.
+        Accomplishments: Implemented PayPal custom integration with webhooks. Integrated Sendbird to save up on custom chat creation for client needs. Heavy query optimizations and queue load distribution. Heavy TDD coverage with PHPUnit for all major feature flows.
+
+        Tech: PHP, MySQL, Laravel, PHPUnit, REST, AWS S3, Sendbird, PayPal.
+  
+        - Marvellous Babysitting. Service to find the nanny depending on her distance and schedule. Uber-like system of placing orders with secondary confirmations complexity where parents review the nannies applications, online sittings time logging with extensions and approval flow.
+
+        Role: PHP Developer, team lead and PM at the release stage of the project.
+
+        Accomplishments: Raw SQL querying optimizations for required days, Google Maps/Directions integration for distance calculation. Anonymization system for the flow of user profile deletion.  Heavy TDD coverage with PHPUnit for all major feature flows. Developed and implemented white-list based calendar flow.
+
+        Tech: PHP, MySQL, Laravel, PHPUnit, REST, AWS S3, Google Maps/Directions API.
+  
+        - SKOS, CRM for the school that specialized on kids with special needs. Custom DocuSign integration with template creation to onboard clients saving costs.
+
+        Role: PHP Developer.
+
+        Accomplishments: DocuSign integration with custom form for user unboard. Heavy TDD coverage with PHPUnit for all major feature flows.
+
+        Tech: PHP, MySQL, Laravel, PHPUnit, REST, AWS S3.
+  
+        - Vizable, a social network for universities in England to promote education for children with basic features like chats, personal pages, walls and groups.
+
+        Role: PHP Developer.
+
+        Accomplishments: MySQL query optimizations. Heavy TDD coverage with PHPUnit for all major feature flows.
+
+        Tech: PHP, MySQL, Laravel, PHPUnit, REST, AWS S3.
+  
+        - Mecurus. Alibaba-like market specialized on selling fabrics. Complex product system, session based cart, payments and etc.
+
+        Role: PHP Developer.
+
+        Accomplishments: Auth flow and TDD coverage for it, auth architecture improvements.
+
+        Tech: PHP, MySQL, Laravel, PHPUnit, REST.
+  
+        - Zad Cakes, a shop for online selling cakes. Multiple phisical shops, using Google Maps API to count delivery distance and delivery price, shop availability depending on the chosen delivery/pickup day.
+
+        Role: PHP Developer.
+
+        Accomplishments: MySQL query optimizations. Heavy TDD coverage with PHPUnit for all major feature flows.
+
+        Tech: PHP, MySQL, Laravel, PHPUnit, REST.
+  
+        - Arep, CRM for renting business, events, complex role access management system, well covering with feature tests.
+
+        Role: PHP Developer.
+
+        Accomplishments: Support for a new features and changing access rules for different roles. Heavy TDD coverage with PHPUnit for all major feature flows.
+
+        Tech: PHP, MySQL, Laravel, PHPUnit, REST.
+  
+        - Company CRM.
+
+        Role: PHP Developer.
+
+        Accomplishments: Fixing days counting for the vacation requests, small support.
+
+        Tech: PHP, MySQL, Laravel, REST.
+
+    - role: Full Stack Developer
+      time: 2018 - 2020
+      company: Magenius
+      details: |
+          Business oriented support-developer, further developing existing web applications. 
+        
+          Accomplishments: Improving page load times, CEO and page rating, adding new features like new extensions and themes for Magento 1,2 e-Commerce applications. Configuring Magento extensions and fixings incompatibilities.
+        
+          Tech: PHP, MySQL, Magento 1&2, HTML/CSS, Javascript.
 
 #certifications:
 #      title: Certifications
@@ -207,26 +268,26 @@ experiences:
 #        conference: "Comm. ACM 4 (1961), 51–55"
 
 skills:
-    title: Skills
+  title: Tech Stack
 
-    toolset:
-      - name: PHP
-#        level: 90%
+  toolset:
+    - name: PHP
+    #        level: 90%
 
-      - name: Laravel
-#        level: 80%
+    - name: Laravel
+    #        level: 80%
 
-      - name: PHPUnit
-#        level: 90%
+    - name: PHPUnit
+    #        level: 90%
 
-      - name: SQL & MySQL
-#        level: 80%
+    - name: SQL & MySQL
+    #        level: 80%
 
-      - name: Javascript
-#        level: 60%
+    - name: Javascript
+    #        level: 60%
 
-      - name: HTML & CSS
+    - name: HTML & CSS
 #        level: 60%
 
 footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+  Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
