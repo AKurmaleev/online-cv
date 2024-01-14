@@ -123,30 +123,6 @@ experiences:
           Accomplishments: Auth flow and TDD coverage for it, auth architecture improvements.
 
           Tech: PHP, MySQL, Laravel, PHPUnit, REST.
-  
-        - Zad Cakes, a shop for online selling cakes. Multiple phisical shops, using Google Maps API to count delivery distance and delivery price, shop availability depending on the chosen delivery/pickup day.
-
-          Role: PHP Developer.
-
-          Accomplishments: MySQL query optimizations. Heavy TDD coverage with PHPUnit for all major feature flows.
-
-          Tech: PHP, MySQL, Laravel, PHPUnit, REST.
-  
-        - Arep, CRM for renting business, events, complex role access management system, well covering with feature tests.
-
-          Role: PHP Developer.
-
-          Accomplishments: Support for a new features and changing access rules for different roles. Heavy TDD coverage with PHPUnit for all major feature flows.
-
-          Tech: PHP, MySQL, Laravel, PHPUnit, REST.
-  
-        - Company CRM.
-
-          Role: PHP Developer.
-
-          Accomplishments: Fixing days counting for the vacation requests, small support.
-
-          Tech: PHP, MySQL, Laravel, REST.
 
     - role: Full Stack Developer
       time: 2018 - 2020
