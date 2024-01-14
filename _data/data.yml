@@ -78,75 +78,75 @@ experiences:
         Projects:
         - Arc, service for requesting, adding and using manuals for aviation and planes.
 
-        Role: Tech and team leading, Lead Developer.
+          Role: Tech and team leading, Lead Developer.
 
-        Accomplishments: Retrieval project from different team, re-working project infrastructure according to the SOLID, YAGNI, DRY and KISS principles. Implementing GraphQL test system based on Laravel Lighthouse. Heavy query optimizations and queue load distribution. Client side TDD coverage with PHPUnit.
+          Accomplishments: Retrieval project from different team, re-working project infrastructure according to the SOLID, YAGNI, DRY and KISS principles. Implementing GraphQL test system based on Laravel Lighthouse. Heavy query optimizations and queue load distribution. Client side TDD coverage with PHPUnit.
 
-        Tech: PHP, MySQL, Laravel, GraphQL, Laravel Lighthouse, PHPUnit.
+          Tech: PHP, MySQL, Laravel, GraphQL, Laravel Lighthouse, PHPUnit.
   
         - Cypher, platform for artists to distribute their content.
 
-        Role: PHP Developer, tech and team leading the later stages of development.
+          Role: PHP Developer, tech and team leading the later stages of development.
 
-        Accomplishments: Implemented PayPal custom integration with webhooks. Integrated Sendbird to save up on custom chat creation for client needs. Heavy query optimizations and queue load distribution. Heavy TDD coverage with PHPUnit for all major feature flows.
+          Accomplishments: Implemented PayPal custom integration with webhooks. Integrated Sendbird to save up on custom chat creation for client needs. Heavy query optimizations and queue load distribution. Heavy TDD coverage with PHPUnit for all major feature flows.
 
-        Tech: PHP, MySQL, Laravel, PHPUnit, REST, AWS S3, Sendbird, PayPal.
+          Tech: PHP, MySQL, Laravel, PHPUnit, REST, AWS S3, Sendbird, PayPal.
   
         - Marvellous Babysitting. Service to find the nanny depending on her distance and schedule. Uber-like system of placing orders with secondary confirmations complexity where parents review the nannies applications, online sittings time logging with extensions and approval flow.
 
-        Role: PHP Developer, team lead and PM at the release stage of the project.
+          Role: PHP Developer, team lead and PM at the release stage of the project.
 
-        Accomplishments: Raw SQL querying optimizations for required days, Google Maps/Directions integration for distance calculation. Anonymization system for the flow of user profile deletion.  Heavy TDD coverage with PHPUnit for all major feature flows. Developed and implemented white-list based calendar flow.
+          Accomplishments: Raw SQL querying optimizations for required days, Google Maps/Directions integration for distance calculation. Anonymization system for the flow of user profile deletion.  Heavy TDD coverage with PHPUnit for all major feature flows. Developed and implemented white-list based calendar flow.
 
-        Tech: PHP, MySQL, Laravel, PHPUnit, REST, AWS S3, Google Maps/Directions API.
+          Tech: PHP, MySQL, Laravel, PHPUnit, REST, AWS S3, Google Maps/Directions API.
   
         - SKOS, CRM for the school that specialized on kids with special needs. Custom DocuSign integration with template creation to onboard clients saving costs.
 
-        Role: PHP Developer.
+          Role: PHP Developer.
 
-        Accomplishments: DocuSign integration with custom form for user unboard. Heavy TDD coverage with PHPUnit for all major feature flows.
+          Accomplishments: DocuSign integration with custom form for user unboard. Heavy TDD coverage with PHPUnit for all major feature flows.
 
-        Tech: PHP, MySQL, Laravel, PHPUnit, REST, AWS S3.
+          Tech: PHP, MySQL, Laravel, PHPUnit, REST, AWS S3.
   
         - Vizable, a social network for universities in England to promote education for children with basic features like chats, personal pages, walls and groups.
 
-        Role: PHP Developer.
+          Role: PHP Developer.
 
-        Accomplishments: MySQL query optimizations. Heavy TDD coverage with PHPUnit for all major feature flows.
+          Accomplishments: MySQL query optimizations. Heavy TDD coverage with PHPUnit for all major feature flows.
 
-        Tech: PHP, MySQL, Laravel, PHPUnit, REST, AWS S3.
+          Tech: PHP, MySQL, Laravel, PHPUnit, REST, AWS S3.
   
         - Mecurus. Alibaba-like market specialized on selling fabrics. Complex product system, session based cart, payments and etc.
 
-        Role: PHP Developer.
+          Role: PHP Developer.
 
-        Accomplishments: Auth flow and TDD coverage for it, auth architecture improvements.
+          Accomplishments: Auth flow and TDD coverage for it, auth architecture improvements.
 
-        Tech: PHP, MySQL, Laravel, PHPUnit, REST.
+          Tech: PHP, MySQL, Laravel, PHPUnit, REST.
   
         - Zad Cakes, a shop for online selling cakes. Multiple phisical shops, using Google Maps API to count delivery distance and delivery price, shop availability depending on the chosen delivery/pickup day.
 
-        Role: PHP Developer.
+          Role: PHP Developer.
 
-        Accomplishments: MySQL query optimizations. Heavy TDD coverage with PHPUnit for all major feature flows.
+          Accomplishments: MySQL query optimizations. Heavy TDD coverage with PHPUnit for all major feature flows.
 
-        Tech: PHP, MySQL, Laravel, PHPUnit, REST.
+          Tech: PHP, MySQL, Laravel, PHPUnit, REST.
   
         - Arep, CRM for renting business, events, complex role access management system, well covering with feature tests.
 
-        Role: PHP Developer.
+          Role: PHP Developer.
 
-        Accomplishments: Support for a new features and changing access rules for different roles. Heavy TDD coverage with PHPUnit for all major feature flows.
+          Accomplishments: Support for a new features and changing access rules for different roles. Heavy TDD coverage with PHPUnit for all major feature flows.
 
-        Tech: PHP, MySQL, Laravel, PHPUnit, REST.
+          Tech: PHP, MySQL, Laravel, PHPUnit, REST.
   
         - Company CRM.
 
-        Role: PHP Developer.
+          Role: PHP Developer.
 
-        Accomplishments: Fixing days counting for the vacation requests, small support.
+          Accomplishments: Fixing days counting for the vacation requests, small support.
 
-        Tech: PHP, MySQL, Laravel, REST.
+          Tech: PHP, MySQL, Laravel, REST.
 
     - role: Full Stack Developer
       time: 2018 - 2020
