@@ -88,9 +88,9 @@ experiences:
 
           Role: PHP Developer, tech and team leading the later stages of development.
 
-          Accomplishments: Implemented PayPal custom integration with webhooks. Integrated Sendbird to save up on custom chat creation for client needs. Heavy query optimizations and queue load distribution. Heavy TDD coverage with PHPUnit for all major feature flows.
+          Accomplishments: Implemented PayPal custom integration with webhooks. Integrated Sendbird to save up on custom chat creation for client needs. Integrated Deepl for automatic translations. Heavy query optimizations and queue load distribution. Heavy TDD coverage with PHPUnit for all major feature flows.
 
-          Tech: PHP, MySQL, Laravel, PHPUnit, REST, AWS S3, Sendbird, PayPal.
+          Tech: PHP, MySQL, Laravel, PHPUnit, REST, AWS S3, Sendbird, PayPal, Deepl.
   
         - Marvellous Babysitting. Service to find the nanny depending on her distance and schedule. Uber-like system of placing orders with secondary confirmations complexity where parents review the nannies applications, online sittings time logging with extensions and approval flow.
 
