@@ -31,9 +31,6 @@ sidebar:
       - idiom: Russian
         level: Native
 
-      - idiom: Spanish
-        level: A1
-
   interests:
     title: Interests
     info:
@@ -52,7 +49,7 @@ sidebar:
 career-profile:
   title: Career Profile
   summary: |
-    PHP developer, Tech, Team Lead and a scientist with more than 5 years of experience in professional software design, e-commerce support for the ongoing projects. Associate, scientist by vocation. Badminton ambassador, team leader of 6 years, coach and a father.
+    Fullstack PHP Developer, Tech, Team Lead and a scientist with more than 6 years of experience in professional software design, e-commerce support for the ongoing projects. Associate, scientist by vocation. Badminton ambassador, team leader of 6 years, coach and a father.
 education:
   title: Education
   info:
@@ -69,12 +66,18 @@ education:
 experiences:
   title: Experiences
   info:
+    - role: Web Freelancer | Fullstack PHP Developer
+      time: 2023 - Present
+      details: |
+        Developing backend for web applications for variety of businesses and start-ups.
+        
+        Accomplishments: Upgrading legacy projects PHP/CodeIgniter/Laravel versions, integrating composer. Configuring automatic deploy with AWS Services.
+        
+        Tech: PHP, MySQL, PHPUnit, HTML/CSS, JS, Laravel, CodeIgniter, AWS Services.
     - role: PHP Developer
       time: 2020 - 2023
       company: Attract Group
       details: |
-        Developing backend for web applications for variety of businesses and start-ups.
-
         Projects:
         - Arc, service for requesting, adding and using manuals for aviation and planes.
 
@@ -106,23 +109,7 @@ experiences:
 
           Accomplishments: DocuSign integration with custom form for user unboard. Heavy TDD coverage with PHPUnit for all major feature flows.
 
-          Tech: PHP, MySQL, Laravel, PHPUnit, REST, AWS S3.
-  
-        - Vizable, a social network for universities in England to promote education for children with basic features like chats, personal pages, walls and groups.
-
-          Role: PHP Developer.
-
-          Accomplishments: MySQL query optimizations. Heavy TDD coverage with PHPUnit for all major feature flows.
-
-          Tech: PHP, MySQL, Laravel, PHPUnit, REST, AWS S3.
-  
-        - Mecurus. Alibaba-like market specialized on selling fabrics. Complex product system, session based cart, payments and etc.
-
-          Role: PHP Developer.
-
-          Accomplishments: Auth flow and TDD coverage for it, auth architecture improvements.
-
-          Tech: PHP, MySQL, Laravel, PHPUnit, REST.
+          Tech: PHP, MySQL, Laravel, PHPUnit, AWS S3
 
     - role: Full Stack Developer
       time: 2018 - 2020
@@ -132,7 +119,7 @@ experiences:
         
           Accomplishments: Improving page load times, CEO and page rating, adding new features like new extensions and themes for Magento 1,2 e-Commerce applications. Configuring Magento extensions and fixings incompatibilities.
         
-          Tech: PHP, MySQL, Magento 1&2, HTML/CSS, Javascript.
+          Tech: PHP, MySQL, Magento 1&2, HTML/CSS, Javascript
 
 #certifications:
 #      title: Certifications
