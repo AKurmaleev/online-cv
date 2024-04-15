@@ -73,7 +73,7 @@ experiences:
         
         Accomplishments: Upgrading legacy projects PHP/CodeIgniter/Laravel versions, integrating composer. Configuring automatic deploy with AWS Services.
         
-        Tech: PHP, MySQL, PHPUnit, HTML/CSS, JS, Laravel, CodeIgniter, AWS Services.
+        Tech: PHP, MySQL, PHPUnit, HTML/CSS, JS, Laravel, CodeIgniter, Native PHP, AWS Services.
     - role: PHP Developer
       time: 2020 - 2023
       company: Attract Group
@@ -117,9 +117,9 @@ experiences:
       details: |
           Business oriented support-developer, further developing existing web applications. 
         
-          Accomplishments: Improving page load times, CEO and page rating, adding new features like new extensions and themes for Magento 1,2 e-Commerce applications. Configuring Magento extensions and fixings incompatibilities.
+          Accomplishments: Improving page load times, CEO and page rating, adding new features.
         
-          Tech: PHP, MySQL, Magento 1&2, HTML/CSS, Javascript
+          Tech: PHP, MySQL, HTML/CSS, Javascript
 
 #certifications:
 #      title: Certifications
