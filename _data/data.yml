@@ -77,6 +77,7 @@ experiences:
         Accomplishments: Upgraded legacy projects PHP/CodeIgniter/Laravel versions, integrated composer. Configured automatic deploy with AWS Services. Created admin panel with Filament framework with tests
         
         Tech:  PHP, MySQL, PHPUnit, HTML/CSS, JS, Laravel, CodeIgniter, Native PHP, AWS Services, Filament, Livewire, PEST.
+
     - role: PHP Developer
       time: 2020 - 2023
       company: Attract Group
@@ -105,14 +106,6 @@ experiences:
           Accomplishments: Raw SQL querying optimizations for required days, Google Maps/Directions integration for distance calculation. Anonymization system for the flow of user profile deletion.  Heavy TDD coverage with PHPUnit for all major feature flows. Developed and implemented white-list based calendar flow.
 
           Tech: PHP, MySQL, Laravel, PHPUnit, REST, AWS S3, Google Maps/Directions API.
-  
-        - SKOS, CRM for the school that specialized on kids with special needs. Custom DocuSign integration with template creation to onboard clients saving costs.
-
-          Role: PHP Developer.
-
-          Accomplishments: DocuSign integration with custom form for user registration. Heavy TDD coverage with PHPUnit for all major feature flows.
-
-          Tech: PHP, MySQL, Laravel, PHPUnit, AWS S3
 
     - role: Full Stack Developer
       time: 2018 - 2020
