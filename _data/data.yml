@@ -73,28 +73,45 @@ experiences:
       time: 2023 - Present
       details: |
         Developing backend for web applications for variety of businesses and start-ups.
-        Accomplishments: Upgrading legacy projects PHP/CodeIgniter/Laravel versions, integrating composer. Configured automatic deploy with AWS Services. Created admin panel with Filament framework with tests.
-        Tech: PHP, MySQL, PHPUnit, HTML/CSS, JS, Laravel, CodeIgniter, Native PHP, AWS Services, Filament, Livewire, PEST.
+        
+        Accomplishments: Upgraded legacy projects PHP/CodeIgniter/Laravel versions, integrated composer. Configured automatic deploy with AWS Services. Created admin panel with Filament framework with tests
+        
+        Tech:  PHP, MySQL, PHPUnit, HTML/CSS, JS, Laravel, CodeIgniter, Native PHP, AWS Services, Filament, Livewire, PEST.
     - role: PHP Developer
       time: 2020 - 2023
       company: Attract Group
       details: |
         Projects:
         - Arc, service for requesting, adding and using manuals for aviation and planes.
+
           Role: Tech and team leading, Lead Developer.
+
           Accomplishments: Retrieval project from different team, re-working project infrastructure according to the SOLID, YAGNI, DRY and KISS principles. Implementing GraphQL test system based on Laravel Lighthouse. Heavy query optimizations and queue load distribution. Client side TDD coverage with PHPUnit.
+
           Tech: PHP, MySQL, Laravel, GraphQL, Laravel Lighthouse, PHPUnit.
+  
         - Cypher, platform for artists to distribute their content.
+
           Role: PHP Developer, tech and team leading the later stages of development.
+
           Accomplishments: Implemented PayPal custom integration with webhooks. Integrated Sendbird to save up on custom chat creation for client needs. Integrated Deepl for automatic translations. Heavy query optimizations and queue load distribution. Heavy TDD coverage with PHPUnit for all major feature flows.
+
           Tech: PHP, MySQL, Laravel, PHPUnit, REST, AWS S3, Sendbird, PayPal, Deepl.
+  
         - Marvellous Babysitting. Service to find the nanny depending on her distance and schedule. Uber-like system of placing orders with secondary confirmations complexity where parents review the nannies applications, online sittings time logging with extensions and approval flow.
+
           Role: PHP Developer, team lead and PM at the release stage of the project.
+
           Accomplishments: Raw SQL querying optimizations for required days, Google Maps/Directions integration for distance calculation. Anonymization system for the flow of user profile deletion.  Heavy TDD coverage with PHPUnit for all major feature flows. Developed and implemented white-list based calendar flow.
+
           Tech: PHP, MySQL, Laravel, PHPUnit, REST, AWS S3, Google Maps/Directions API.
+  
         - SKOS, CRM for the school that specialized on kids with special needs. Custom DocuSign integration with template creation to onboard clients saving costs.
+
           Role: PHP Developer.
+
           Accomplishments: DocuSign integration with custom form for user registration. Heavy TDD coverage with PHPUnit for all major feature flows.
+
           Tech: PHP, MySQL, Laravel, PHPUnit, AWS S3
 
     - role: Full Stack Developer
@@ -102,7 +119,9 @@ experiences:
       company: Magenius
       details: |
           Business oriented support-developer, further developing existing web applications. 
+        
           Accomplishments: Improving page load times, CEO and page rating, adding new features.
+        
           Tech: PHP, MySQL, HTML/CSS, Javascript
 
 #certifications:
